@@ -18,7 +18,7 @@ Nasceu do livro "Rust do Zero ao Avançado" (25 peças, 469 páginas).
 
 ## Instalar
 ```sh
-git clone https://github.com/<seu-usuario>/book-forge ~/.claude/skills/book-forge
+git clone https://github.com/JotaPeans/book-forge ~/.claude/skills/book-forge
 pip install reportlab
 ```
 Depois, no Claude Code: peça "quero criar um livro sobre X em PDF".
